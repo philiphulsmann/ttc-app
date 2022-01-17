@@ -7,7 +7,7 @@ import { NavigationContainer } from '@react-navigation/native';
 
 const ttcBlue = '#004989';
 
-var username = 'Arne Reijntjes';
+var username = 'Philip';
 
 export default function App() {
   return (
